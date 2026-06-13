@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-06-10",
+    "updatedAt": "2026-06-14",
     "author": "sncmlife",
     "teams": [
         {
@@ -2004,7 +2004,7 @@
                     "bats": "우투우타",
                     "group": "포수",
                     "proDebut": "2018",
-                    "joinedYear": "=E153",
+                    "joinedYear": "2018",
                     "naverPlayerId": "68089",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/09878e00-6e5a-4bf2-98bb-6fda6b108ac2.png",
                     "songs": [
@@ -2046,7 +2046,7 @@
                     "bats": "우투우타",
                     "group": "포수",
                     "proDebut": "2020",
-                    "joinedYear": "=E156",
+                    "joinedYear": "2020",
                     "naverPlayerId": "50066",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/b495de23-2cc1-4d1b-a3b4-db87d687d2d9.png",
                     "songs": [
@@ -2088,7 +2088,7 @@
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2026",
-                    "joinedYear": "=E163",
+                    "joinedYear": "2026",
                     "naverPlayerId": "56006",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/cebea18f-ca09-4666-8b2c-42c362d60dec.png",
                     "songs": [
@@ -2137,7 +2137,7 @@
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2023",
-                    "joinedYear": "=E165",
+                    "joinedYear": "2023",
                     "naverPlayerId": "53036",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/0a0a16dd-06e9-4ed5-812c-b6e36febfa7c.png",
                     "songs": [
@@ -2179,7 +2179,7 @@
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2014",
-                    "joinedYear": "=E167",
+                    "joinedYear": "2014",
                     "naverPlayerId": "64007",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/6af50b36-9f89-4830-b693-9db04d7c6eef.png",
                     "songs": [
@@ -2200,7 +2200,7 @@
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2021",
-                    "joinedYear": "=E170",
+                    "joinedYear": "2021",
                     "naverPlayerId": "51003",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/d33549d4-5717-4172-b19f-d3238f89d860.png",
                     "songs": [
@@ -2242,7 +2242,7 @@
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2026",
-                    "joinedYear": "=E174",
+                    "joinedYear": "2026",
                     "naverPlayerId": "56001",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/d968f200-bdb7-4a3f-8091-1e319e425737.png",
                     "songs": [
@@ -2291,7 +2291,7 @@
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2017",
-                    "joinedYear": "=E179",
+                    "joinedYear": "2017",
                     "naverPlayerId": "67006",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/c10ebf1f-ce12-4ba7-8384-3f674667ddef.png",
                     "songs": [
@@ -2333,7 +2333,7 @@
                     "bats": "우투우타",
                     "group": "외야수",
                     "proDebut": "2022",
-                    "joinedYear": "=E181",
+                    "joinedYear": "2022",
                     "naverPlayerId": "52001",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/702ccdbb-47d1-4251-8e20-e220a8248d23.png",
                     "songs": [
@@ -2445,7 +2445,7 @@
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2014",
-                    "joinedYear": "=E187",
+                    "joinedYear": "2014",
                     "naverPlayerId": "64004",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/643bc2f1-f18b-43eb-b7ef-765ff15077a6.png",
                     "songs": [
@@ -2473,7 +2473,7 @@
                     "bats": "좌투좌타",
                     "group": "외야수",
                     "proDebut": "2023",
-                    "joinedYear": "=E188",
+                    "joinedYear": "2023",
                     "naverPlayerId": "53058",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/2437a850-a78d-4745-b487-6129835b40a6.png",
                     "songs": [
@@ -2494,7 +2494,7 @@
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2021",
-                    "joinedYear": "=E190",
+                    "joinedYear": "2021",
                     "naverPlayerId": "51013",
                     "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/a3b80ef8-05df-46d6-b642-d4c8f13aec7d.png",
                     "songs": [
@@ -7534,27 +7534,6 @@
             ],
             "players": [
                 {
-                    "id": "kiwoom-61",
-                    "name": "배동현",
-                    "backNumber": "61",
-                    "position": "",
-                    "bats": "우투좌타",
-                    "group": "투수",
-                    "proDebut": "2021(한화)",
-                    "joinedYear": "2026",
-                    "naverPlayerId": "51761",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/29a13e9f-7c2a-4cb7-aeb8-317d778dba82.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "",
-                            "lyrics": "오 히어로 장재영 오 히어로 장재영\n오 승리를 위하여 날아올라라\n히어로 장재영 히어로 장재영\n히어로는 바로 너 장재영 장!재!영!\n\n오 히어로 장재영 오 히어로 장재영\n오 승리를 위하여 날아올라라\n히어로 장재영 히어로 장재영\n히어로는 바로 너 장재영 장!재!영!\n\nwidth=50\n\n구단 자작곡",
-                            "youtubeUrl": "https://youtu.be/m87rX0vpTBk"
-                        }
-                    ]
-                },
-                {
                     "id": "kiwoom-12",
                     "name": "김건희",
                     "backNumber": "12",
@@ -7569,8 +7548,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "안타! 안타! 안타! 김건희!\n\n키움 히어로즈 김건희 오 히어로즈 김건희\n안방마님 김건희 오오오 김!건!희!\n\n키움 히어로즈 김건희 오 히어로즈 김건희\n안방마님 김건희 오오오 김!건!희!\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "안타! 안타! 안타! 김건희!\n\n키움 히어로즈 김건희 오 히어로즈 김건희\n안방마님 김건희 오오오 김!건!희!\n\n키움 히어로즈 김건희 오 히어로즈 김건희\n안방마님 김건희 오오오 김!건!희!",
                             "youtubeUrl": "https://youtu.be/E_AHbZIzpGg"
                         }
                     ]
@@ -7590,8 +7569,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "오! 김재현 다함께 외쳐라\n라라랄라라라 랄랄라라 안타 김재현 (안타!)\n\n오! 김재현 다함께 외쳐라\n라라랄라라라 랄랄라라 안타 김재현 (안타!)\n\nwidth=50\n\n스티븐 포스터 - 오 수재너",
+                            "title": "스티븐 포스터 - 오 수재너",
+                            "lyrics": "오! 김재현 다함께 외쳐라\n라라랄라라라 랄랄라라 안타 김재현 (안타!)\n\n오! 김재현 다함께 외쳐라\n라라랄라라라 랄랄라라 안타 김재현 (안타!)",
                             "youtubeUrl": "https://youtu.be/P9tUny7l2gQ"
                         }
                     ]
@@ -7611,15 +7590,15 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~\n히어로 김 (김!) 동 (동!) 헌 (헌!) 오오오 오오오~",
                             "youtubeUrl": "https://youtu.be/6hCxGfizQLg"
                         },
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "고!영우 승리위해 안타 날려버려\n고!영우 승리를 위해\n오오오 고영우 오오오 고영우 오오오 고영우 워어어어\n\n고!영우 승리위해 안타 날려버려\n고!영우 승리를 위해\n오오오 고영우 오오오 고영우 오오오 고영우 워어어어\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "고!영우 승리위해 안타 날려버려\n고!영우 승리를 위해\n오오오 고영우 오오오 고영우 오오오 고영우 워어어어\n\n고!영우 승리위해 안타 날려버려\n고!영우 승리를 위해\n오오오 고영우 오오오 고영우 오오오 고영우 워어어어",
                             "youtubeUrl": "https://youtu.be/ofkNjAVEGxo"
                         }
                     ]
@@ -7639,8 +7618,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "키움 김태진 워어어어 (안!타! 김!태!진!)\n키움 김태진 워어어어 (안!타! 김!태!진!)\n\n키움 김태진 워어어어 (안!타! 김!태!진!)\n키움 김태진 워어어어 (안!타! 김!태!진!)\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "키움 김태진 워어어어 (안!타! 김!태!진!)\n키움 김태진 워어어어 (안!타! 김!태!진!)\n\n키움 김태진 워어어어 (안!타! 김!태!진!)\n키움 김태진 워어어어 (안!타! 김!태!진!)",
                             "youtubeUrl": "https://youtu.be/X5qHLGyTRjA"
                         }
                     ]
@@ -7660,8 +7639,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈 이재상 히어로즈 이재상\n승리를 위해 치고 달려라 히어로 이재상 워어\n\n히어로즈 이재상 히어로즈 이재상\n승리를 위해 치고 달려라 히어로 이재상\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈 이재상 히어로즈 이재상\n승리를 위해 치고 달려라 히어로 이재상 워어\n\n히어로즈 이재상 히어로즈 이재상\n승리를 위해 치고 달려라 히어로 이재상",
                             "youtubeUrl": "https://youtu.be/Uk07NEHB6hw"
                         }
                     ]
@@ -7681,8 +7660,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "오! 오선진 히어로즈 오선진\n오오 오오오오 날! 려! 버! 려! 오선진!\n\n오! 오선진 히어로즈 오선진\n오오 오오오오 날! 려! 버! 려! 오선진!\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "오! 오선진 히어로즈 오선진\n오오 오오오오 날! 려! 버! 려! 오선진!\n\n오! 오선진 히어로즈 오선진\n오오 오오오오 날! 려! 버! 려! 오선진!",
                             "youtubeUrl": "https://youtu.be/XFXB0IVRDYk"
                         }
                     ]
@@ -7702,8 +7681,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로 안치홍! 안치홍! 날려라 워어어어\n히어로 안치홍! 안치홍! 날려라 워어어어\n승리를 위하여 치고 달려라\n안치홍! 날려라 워어어어\n\n히어로 안치홍! 안치홍! 날려라 워어어어\n히어로 안치홍! 안치홍! 날려라 워어어어\n승리를 위하여 치고 달려라\n안치홍! 날려라 워어어어\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로 안치홍! 안치홍! 날려라 워어어어\n히어로 안치홍! 안치홍! 날려라 워어어어\n승리를 위하여 치고 달려라\n안치홍! 날려라 워어어어\n\n히어로 안치홍! 안치홍! 날려라 워어어어\n히어로 안치홍! 안치홍! 날려라 워어어어\n승리를 위하여 치고 달려라\n안치홍! 날려라 워어어어",
                             "youtubeUrl": "https://youtu.be/d3Gam5hamWU"
                         }
                     ]
@@ -7723,8 +7702,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "김웅빈 김웅빈~ 히어로즈 김웅빈~\n히어로즈 승리를 위하여 날려버려 저멀리~\n\n김웅빈 김웅빈~ 히어로즈 김웅빈~\n히어로즈 승리를 위하여 날려버려 저멀리~\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "김웅빈 김웅빈~ 히어로즈 김웅빈~\n히어로즈 승리를 위하여 날려버려 저멀리~\n\n김웅빈 김웅빈~ 히어로즈 김웅빈~\n히어로즈 승리를 위하여 날려버려 저멀리~",
                             "youtubeUrl": "https://youtu.be/mWML7cmVuKA"
                         }
                     ]
@@ -7744,9 +7723,16 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히~어로~ 서건창 안타 서건창 안타 오오오오오~\n히~어로~ 서건창 안타 서건창 안타 오오오오~\n\n히~어로~ 서건창 안타 서건창 안타 오오오오오~\n히~어로~ 서건창 안타 서건창 안타 오오오오~\nwidth=50\n\n노브레인- 승리를 향해\n히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)\n\n히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)\nwidth=50\n\nStephen Foster - Swanee River",
+                            "title": "노브레인- 승리를 향해",
+                            "lyrics": "히~어로~ 서건창 안타 서건창 안타 오오오오오~\n히~어로~ 서건창 안타 서건창 안타 오오오오~\n\n히~어로~ 서건창 안타 서건창 안타 오오오오오~\n히~어로~ 서건창 안타 서건창 안타 오오오오~",
                             "youtubeUrl": "https://youtu.be/CArey-6L77U"
+                        },
+                        {
+                            "kind": "cheer",
+                            "label": "",
+                            "title": "Stephen Foster - Swanee River",
+                            "lyrics": "히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)\n\n히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)",
+                            "youtubeUrl": ""
                         }
                     ]
                 },
@@ -7765,8 +7751,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "최주환 히어로즈의 최주환 안타 날려버려 워어어~\n최주환 히어로즈의 최주환 안타 날려버려 워어어~\n\n최주환 히어로즈의 최주환 안타 날려버려 워어어~\n최주환 히어로즈의 최주환 안타 날려버려 워어어~\n\nwidth=50\n\n심신 - 오직 하나 뿐인 그대",
+                            "title": "심신 - 오직 하나 뿐인 그대",
+                            "lyrics": "최주환 히어로즈의 최주환 안타 날려버려 워어어~\n최주환 히어로즈의 최주환 안타 날려버려 워어어~\n\n최주환 히어로즈의 최주환 안타 날려버려 워어어~\n최주환 히어로즈의 최주환 안타 날려버려 워어어~",
                             "youtubeUrl": "https://youtu.be/dZf54N-Izw8"
                         }
                     ]
@@ -7786,8 +7772,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈 어준서 워어어 워어어\n히어로즈 어준서 워어어어어\n안타를 날려라 홈런을 날려라\n히어로즈 어준서 워어어어어\n\n히어로즈 어준서 워어어 워어어\n히어로즈 어준서 워어어어어\n안타를 날려라 홈런을 날려라\n히어로즈 어준서 워어어어어\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈 어준서 워어어 워어어\n히어로즈 어준서 워어어어어\n안타를 날려라 홈런을 날려라\n히어로즈 어준서 워어어어어\n\n히어로즈 어준서 워어어 워어어\n히어로즈 어준서 워어어어어\n안타를 날려라 홈런을 날려라\n히어로즈 어준서 워어어어어",
                             "youtubeUrl": "https://youtu.be/wR7czF5IgMg"
                         }
                     ]
@@ -7807,8 +7793,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈의 여동욱 히어로즈의 여동욱\n승리를 위하여 움직여라 오오 여동욱\n\n히어로즈의 여동욱 히어로즈의 여동욱\n승리를 위하여 큰거한방 오오 여동욱\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈의 여동욱 히어로즈의 여동욱\n승리를 위하여 움직여라 오오 여동욱\n\n히어로즈의 여동욱 히어로즈의 여동욱\n승리를 위하여 큰거한방 오오 여동욱",
                             "youtubeUrl": "https://youtu.be/6lbAyjnjnHQ"
                         }
                     ]
@@ -7828,8 +7814,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로 전태현 히어로즈 전태현\n승리를 위해 전태현 라랄랄라\n\n히어로 전태현 히어로즈 전태현\n승리를 위해 전태현 라랄랄라라\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로 전태현 히어로즈 전태현\n승리를 위해 전태현 라랄랄라\n\n히어로 전태현 히어로즈 전태현\n승리를 위해 전태현 라랄랄라라",
                             "youtubeUrl": "https://youtu.be/MMswaE9qBPc"
                         }
                     ]
@@ -7849,8 +7835,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "이주형 워어어 이주형 워어어\n저 높이 날아올라 빛이 되리라 히어로즈 이주형\n\n이주형 워어어 이주형 워어어\n저 높이 날아올라 빛이 되리라 히어로즈 이주형\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "이주형 워어어 이주형 워어어\n저 높이 날아올라 빛이 되리라 히어로즈 이주형\n\n이주형 워어어 이주형 워어어\n저 높이 날아올라 빛이 되리라 히어로즈 이주형",
                             "youtubeUrl": "https://youtu.be/yNpzQ5pEkUs"
                         }
                     ]
@@ -7870,8 +7856,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈 승리위해 안타 이용규\n히어로즈 승리를 위하여 이용규 YOU! YOU! YOU!\n\n히어로즈 승리위해 안타 이용규\n히어로즈 승리를 위하여 이용규 YOU! YOU! YOU!\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈 승리위해 안타 이용규\n히어로즈 승리를 위하여 이용규 YOU! YOU! YOU!\n\n히어로즈 승리위해 안타 이용규\n히어로즈 승리를 위하여 이용규 YOU! YOU! YOU!",
                             "youtubeUrl": "https://youtu.be/xhfJYQY_AKw"
                         }
                     ]
@@ -7891,8 +7877,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "임~병욱 (짝짝짝짝) 임~병욱 (짝짝짝짝)\n히어로즈의 승리를 위하여 하나되어 외쳐보자 (짝짝짝짝)\n\n임~병욱 (짝짝짝짝) 임~병욱 (짝짝짝짝)\n히어로즈의 승리를 위하여 하나되어 외쳐보자 (짝짝짝짝)\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "임~병욱 (짝짝짝짝) 임~병욱 (짝짝짝짝)\n히어로즈의 승리를 위하여 하나되어 외쳐보자 (짝짝짝짝)\n\n임~병욱 (짝짝짝짝) 임~병욱 (짝짝짝짝)\n히어로즈의 승리를 위하여 하나되어 외쳐보자 (짝짝짝짝)",
                             "youtubeUrl": "https://youtu.be/b8GMq2Fxr1k"
                         }
                     ]
@@ -7912,8 +7898,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로 주성원 힘차게 날려버려라\n히어로즈 파워히터 주성원\n히어로 주성원 힘차게 날려버려라\n히어로즈 승리를 위해\n\n히어로 주성원 힘차게 날려버려라\n히어로즈 파워히터 주성원\n히어로 주성원 힘차게 날려버려라\n히어로즈 승리를 위해\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로 주성원 힘차게 날려버려라\n히어로즈 파워히터 주성원\n히어로 주성원 힘차게 날려버려라\n히어로즈 승리를 위해\n\n히어로 주성원 힘차게 날려버려라\n히어로즈 파워히터 주성원\n히어로 주성원 힘차게 날려버려라\n히어로즈 승리를 위해",
                             "youtubeUrl": "https://youtu.be/Qp6l0txuOXU"
                         }
                     ]
@@ -7933,8 +7919,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈 임지열 히어로즈 임지열\n히어로즈 VAMOS 임지열 워어어어어\n\n히어로즈 임지열 히어로즈 임지열\n히어로즈 VAMOS 임지열 워어어어어\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈 임지열 히어로즈 임지열\n히어로즈 VAMOS 임지열 워어어어어\n\n히어로즈 임지열 히어로즈 임지열\n히어로즈 VAMOS 임지열 워어어어어",
                             "youtubeUrl": "https://youtu.be/myOXo-0fK48"
                         }
                     ]
@@ -7954,8 +7940,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "오오 키움 원성준 키움 원성준\n날아 날아올라 오오오오 키움 원성준 승리를 위해\n\n오오 키움 원성준 키움 원성준\n날아 날아올라 오오오오 키움 원성준 승리를 위해\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "오오 키움 원성준 키움 원성준\n날아 날아올라 오오오오 키움 원성준 승리를 위해\n\n오오 키움 원성준 키움 원성준\n날아 날아올라 오오오오 키움 원성준 승리를 위해",
                             "youtubeUrl": "https://youtu.be/ujPbD6aCPp0"
                         }
                     ]
@@ -7975,8 +7961,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로즈 이~형종 워어어 워어어어\n히어로즈 이~형종 워어어 워어어어\n\n히어로즈 이~형종 워어어 워어어어\n히어로즈 이~형종 워어어 워어어어\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "히어로즈 이~형종 워어어 워어어어\n히어로즈 이~형종 워어어 워어어어\n\n히어로즈 이~형종 워어어 워어어어\n히어로즈 이~형종 워어어 워어어어",
                             "youtubeUrl": "https://youtu.be/66VXcSQpBW8"
                         }
                     ]
@@ -7996,8 +7982,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "히어로 박찬혁 워어어어~\n히어로 박찬혁 워어어어~\n\n히어로 박찬혁 워어어어~\n히어로 박찬혁 워어어어~\n\nwidth=50\n\nRadiorama - Yeti",
+                            "title": "Radiorama - Yeti",
+                            "lyrics": "히어로 박찬혁 워어어어~\n히어로 박찬혁 워어어어~\n\n히어로 박찬혁 워어어어~\n히어로 박찬혁 워어어어~",
                             "youtubeUrl": "https://youtu.be/T-C_v2wx3gM"
                         }
                     ]
@@ -8017,8 +8003,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "워~어! 워~어! 히어로즈 박주홍~\n워~어! 워~어! 히어로즈 박주홍~\n\n워~어! 워~어! 히어로즈 박주홍~\n워~어! 워~어! 히어로즈 박주홍~\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "워~어! 워~어! 히어로즈 박주홍~\n워~어! 워~어! 히어로즈 박주홍~\n\n워~어! 워~어! 히어로즈 박주홍~\n워~어! 워~어! 히어로즈 박주홍~",
                             "youtubeUrl": "https://youtu.be/jbDGeQITjzE"
                         }
                     ]
@@ -8038,8 +8024,8 @@
                         {
                             "kind": "cheer",
                             "label": "",
-                            "title": "",
-                            "lyrics": "박~수 박수 박수종~ 안타 안타 박수종~\n승리를 위하여 파이팅~ 키움 히어로 박수종~\n\n박~수 박수 박수종~ 안타 안타 박수종~\n승리를 위하여 파이팅~ 키움 히어로 박수종~\n\nwidth=50\n\n구단 자작곡",
+                            "title": "구단 자작곡",
+                            "lyrics": "박~수 박수 박수종~ 안타 안타 박수종~\n승리를 위하여 파이팅~ 키움 히어로 박수종~\n\n박~수 박수 박수종~ 안타 안타 박수종~\n승리를 위하여 파이팅~ 키움 히어로 박수종~",
                             "youtubeUrl": "https://youtu.be/h36YaoIZ-Rs"
                         }
                     ]
