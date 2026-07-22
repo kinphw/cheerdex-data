@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-06-14",
+    "updatedAt": "2026-07-22",
     "author": "sncmlife",
     "teams": [
         {
@@ -503,7 +503,7 @@
                 {
                     "id": "doosan-8",
                     "name": "손아섭",
-                    "backNumber": "8",
+                    "backNumber": "24",
                     "position": "좌익수",
                     "bats": "우투좌타",
                     "group": "외야수",
@@ -2420,7 +2420,7 @@
                     "id": "kt-51",
                     "name": "장진혁",
                     "backNumber": "51",
-                    "position": "",
+                    "position": "좌익수",
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2016(한화)",
@@ -3043,27 +3043,6 @@
                     ]
                 },
                 {
-                    "id": "ssg-33",
-                    "name": "이정범",
-                    "backNumber": "33",
-                    "position": "좌익수",
-                    "bats": "좌투좌타",
-                    "group": "외야수",
-                    "proDebut": "",
-                    "joinedYear": "2017",
-                    "naverPlayerId": "67807",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/1c08df22-de1d-48a3-9f1d-0eb118abd2c8.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "구단 자작곡",
-                            "lyrics": "워~ 워워워워~ 랜더스~ 이~정범~\n워~ 워워워 워워워~ 안타 날려버려~\n×2",
-                            "youtubeUrl": "https://youtu.be/e4fM9NRGIVQ"
-                        }
-                    ]
-                },
-                {
                     "id": "ssg-35",
                     "name": "한유섬",
                     "backNumber": "35",
@@ -3679,27 +3658,6 @@
                             "title": "",
                             "lyrics": "다이노스 도태훈 안타 오! 오오오오~ 다이노스 도태훈 안타 오! 오오오오~ \n\n구단 자작곡",
                             "youtubeUrl": "https://youtu.be/PGpJnO3GdWA"
-                        }
-                    ]
-                },
-                {
-                    "id": "nc-24",
-                    "name": "데이비슨",
-                    "backNumber": "24",
-                    "position": "1루수",
-                    "bats": "우투우타",
-                    "group": "내야수",
-                    "proDebut": "2009(ARI)",
-                    "joinedYear": "2024",
-                    "naverPlayerId": "54944",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/6b25386c-777e-4855-9a41-fd213a20291b.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "",
-                            "lyrics": "데이비슨 오오 데이비슨 오오오오 데이비슨 오오 NC 다이노스 데! 이! 비! 슨!\n\n원곡 : 신비 - 통다리 토로롱",
-                            "youtubeUrl": "https://youtu.be/5qk4bJLMqNQ"
                         }
                     ]
                 },
@@ -4403,7 +4361,7 @@
                     "id": "kia-29",
                     "name": "변우혁",
                     "backNumber": "29",
-                    "position": "",
+                    "position": "1루수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2019(한화)",
@@ -4515,7 +4473,7 @@
                     "id": "kia-1",
                     "name": "박정우",
                     "backNumber": "1",
-                    "position": "",
+                    "position": "우익수",
                     "bats": "좌투좌타",
                     "group": "외야수",
                     "proDebut": "2017",
@@ -5575,7 +5533,7 @@
                     "id": "lotte-33",
                     "name": "손호영",
                     "backNumber": "33",
-                    "position": "3루수",
+                    "position": "우익수",
                     "bats": "우투우타",
                     "group": "외야수",
                     "proDebut": "2014(CHC)",
@@ -6033,7 +5991,7 @@
                     "id": "samsung-6",
                     "name": "심재훈",
                     "backNumber": "6",
-                    "position": "2루수",
+                    "position": "유격수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2025",
@@ -6201,7 +6159,7 @@
                     "id": "samsung-50",
                     "name": "이창용",
                     "backNumber": "50",
-                    "position": "1루수",
+                    "position": "3루수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2021",
@@ -7261,7 +7219,7 @@
                     "id": "hanwha-41",
                     "name": "최인호",
                     "backNumber": "41",
-                    "position": "",
+                    "position": "좌익수",
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2020",
@@ -7607,7 +7565,7 @@
                     "id": "kiwoom-1",
                     "name": "김태진",
                     "backNumber": "1",
-                    "position": "유격수",
+                    "position": "2루수",
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2014(NC)",
@@ -7732,7 +7690,7 @@
                             "label": "",
                             "title": "Stephen Foster - Swanee River",
                             "lyrics": "히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)\n\n히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)",
-                            "youtubeUrl": ""
+                            "youtubeUrl": "https://youtu.be/F7DEEdY6TKA"
                         }
                     ]
                 },
@@ -7929,7 +7887,7 @@
                     "id": "kiwoom-33",
                     "name": "원성준",
                     "backNumber": "33",
-                    "position": "",
+                    "position": "중견수",
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2024",
