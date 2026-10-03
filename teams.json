@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-07-22",
+    "updatedAt": "2026-10-04",
     "author": "sncmlife",
     "teams": [
         {
@@ -342,7 +342,7 @@
                     "proDebut": "2022",
                     "joinedYear": "2022",
                     "naverPlayerId": "52267",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/b821a44c-c20d-4ab9-ae75-eaf77ebc03b7.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/2012afa1-0e49-4fbf-95e7-af0b6ef3cc1f.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -426,7 +426,7 @@
                     "proDebut": "2025",
                     "joinedYear": "2025",
                     "naverPlayerId": "55252",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/5f53136c-d1a6-4156-8418-0055834681b0.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/d7b045df-7b32-4a9c-8b47-2318823b9295.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -522,27 +522,6 @@
                     ]
                 },
                 {
-                    "id": "doosan-24",
-                    "name": "카메론",
-                    "backNumber": "24",
-                    "position": "우익수",
-                    "bats": "우투우타",
-                    "group": "외야수",
-                    "proDebut": "2015(HOU)",
-                    "joinedYear": "2026",
-                    "naverPlayerId": "56251",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/95bc10da-b0b0-4625-bf57-b520315e3b0c.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "박영규 - 카멜레온 (2026~)",
-                            "lyrics": "카메론~ (안타! 안타!)\n카메론~ (홈런! 홈런!)\n베어스의 다즈 카메론~\n\n카메론~ (안타! 안타!)\n카메론~ (홈런! 홈런!)\n베어스의 승리를 위하여~",
-                            "youtubeUrl": "https://youtu.be/asleSFvPRq4"
-                        }
-                    ]
-                },
-                {
                     "id": "doosan-31",
                     "name": "정수빈",
                     "backNumber": "31",
@@ -630,7 +609,7 @@
                     "id": "doosan-51",
                     "name": "조수행",
                     "backNumber": "51",
-                    "position": "중견수",
+                    "position": "좌익수",
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2016",
@@ -980,25 +959,30 @@
                     ]
                 },
                 {
-                    "id": "lg-46",
-                    "name": "치리노스",
-                    "backNumber": "46",
-                    "position": "",
+                    "id": "lg-p56103",
+                    "name": "카라스코",
+                    "backNumber": "59",
+                    "position": "투수",
                     "bats": "우투우타",
                     "group": "투수",
-                    "proDebut": "2012(TB)",
-                    "joinedYear": "2025",
-                    "naverPlayerId": "55146",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/4b18a081-ab12-4776-b9e7-cff0be96c926.png",
-                    "songs": [
-                        {
-                            "kind": "entrance",
-                            "label": "",
-                            "title": "Daddy Yankee - Donante De Sangre",
-                            "lyrics": "",
-                            "youtubeUrl": "https://youtu.be/VvFUraacW1c"
-                        }
-                    ]
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56103",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/4299a4bf-5fde-4cee-b48a-c3b9cb7ad3a3.png",
+                    "songs": []
+                },
+                {
+                    "id": "lg-p56168",
+                    "name": "케네디",
+                    "backNumber": "68",
+                    "position": "투수",
+                    "bats": "좌투좌타",
+                    "group": "투수",
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56168",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/a9b6bb0d-8d35-490a-8779-b344036505b4.png",
+                    "songs": []
                 },
                 {
                     "id": "lg-27",
@@ -1066,7 +1050,7 @@
                     "proDebut": "2019",
                     "joinedYear": "2019",
                     "naverPlayerId": "69102",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/a2b4d559-c549-406f-a88e-a865a66cb313.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/eb3f6867-f90c-4165-8abf-b3d69c274d2a.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -1256,7 +1240,7 @@
                     "id": "lg-15",
                     "name": "손용준",
                     "backNumber": "15",
-                    "position": "",
+                    "position": "3루수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2024",
@@ -1409,7 +1393,7 @@
                     "proDebut": "2024",
                     "joinedYear": "2024",
                     "naverPlayerId": "54164",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/6b6ff128-53c5-43c1-8c56-5cb472141d51.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/d4b2e114-fa4d-47f1-a023-2a96e811d686.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -1976,6 +1960,19 @@
                     "songs": []
                 },
                 {
+                    "id": "kt-p56002",
+                    "name": "대니엘",
+                    "backNumber": "36",
+                    "position": "투수",
+                    "bats": "우투우타",
+                    "group": "투수",
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56002",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/70253184-6f0e-42e4-acf7-e600d4f65152.png",
+                    "songs": []
+                },
+                {
                     "id": "kt-22",
                     "name": "장성우",
                     "backNumber": "22",
@@ -2217,7 +2214,7 @@
                     "id": "kt-56",
                     "name": "장준원",
                     "backNumber": "56",
-                    "position": "",
+                    "position": "유격수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2014(LG)",
@@ -2723,7 +2720,7 @@
                     "proDebut": "",
                     "joinedYear": "2021",
                     "naverPlayerId": "51865",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/39cf3f11-d867-4461-8fb1-32a2d15b4519.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/a485cad1-9087-483a-825a-0e447b9633a0.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -2835,7 +2832,7 @@
                     "proDebut": "",
                     "joinedYear": "2024",
                     "naverPlayerId": "54812",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/de99d754-e425-428d-b6da-2f3eb50e6686.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/dbf5f513-4486-4dce-b409-1efc70e0e86b.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -2899,7 +2896,7 @@
                     "id": "ssg-18",
                     "name": "고명준",
                     "backNumber": "18",
-                    "position": "1루수",
+                    "position": "3루수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "",
@@ -2955,27 +2952,6 @@
                             "title": "CCM - 내 손을 주께 높이 듭니다",
                             "lyrics": "랜더스 최준우~ 안타!\n오오오오 오오오~\n랜더스 최준우~ 안타!\n오오오오 최~준우\n×2",
                             "youtubeUrl": "https://youtu.be/hPPVC2Rvq00"
-                        }
-                    ]
-                },
-                {
-                    "id": "ssg-13",
-                    "name": "하재훈",
-                    "backNumber": "13",
-                    "position": "좌익수",
-                    "bats": "우투우타",
-                    "group": "외야수",
-                    "proDebut": "",
-                    "joinedYear": "2008",
-                    "naverPlayerId": "69813",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/7e1a5934-3c83-478e-917a-00a237c3e773.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "구단 자작곡",
-                            "lyrics": "하! 재! 훈~\n랜더스의! 하재훈 안타\n워어어어어 하재훈 안타\n랜더스의! 하재훈 안타\n승리를 위해 하재훈 안타\n×2",
-                            "youtubeUrl": "https://youtu.be/uNNyjzhk8z8"
                         }
                     ]
                 },
@@ -3410,6 +3386,19 @@
             ],
             "players": [
                 {
+                    "id": "nc-p56939",
+                    "name": "클레빈저",
+                    "backNumber": "39",
+                    "position": "투수",
+                    "bats": "우투우타",
+                    "group": "투수",
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56939",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/3a71f1ae-e8aa-4197-b67d-53ecad0bf63a.png",
+                    "songs": []
+                },
+                {
                     "id": "nc-22",
                     "name": "안중열",
                     "backNumber": "22",
@@ -3545,7 +3534,7 @@
                     "proDebut": "2021",
                     "joinedYear": "2021",
                     "naverPlayerId": "51907",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/922ad91b-d3aa-4bd3-a652-57ad98b8dabf.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/b3fd36a4-44f8-4c40-8bc9-d536c66afc14.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -3812,7 +3801,7 @@
                     "id": "nc-53",
                     "name": "박시원",
                     "backNumber": "53",
-                    "position": "",
+                    "position": "우익수",
                     "bats": "우투좌타",
                     "group": "외야수",
                     "proDebut": "2020",
@@ -4255,7 +4244,7 @@
                     "proDebut": "2022",
                     "joinedYear": "2022",
                     "naverPlayerId": "52605",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/bafebc22-1487-4a23-a96d-edea3ba15a5c.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/10da28f1-63b2-4952-85c7-700d8a515f34.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -4305,7 +4294,7 @@
                     "id": "kia-14",
                     "name": "김규성",
                     "backNumber": "14",
-                    "position": "",
+                    "position": "유격수",
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2016",
@@ -4386,6 +4375,34 @@
                     ]
                 },
                 {
+                    "id": "hanwha-16",
+                    "name": "하주석",
+                    "backNumber": "30",
+                    "position": "2루수",
+                    "bats": "우투좌타",
+                    "group": "내야수",
+                    "proDebut": "2012",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "62700",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/3b3b385f-8a7d-41fd-8348-db4ab1364b29.png",
+                    "songs": [
+                        {
+                            "kind": "cheer",
+                            "label": "타격 시",
+                            "title": "러브홀릭 - Loveholic",
+                            "lyrics": "",
+                            "youtubeUrl": "https://www.youtube.com/watch?v=luQr-h_b7Uw"
+                        },
+                        {
+                            "kind": "entrance",
+                            "label": "등장곡",
+                            "title": "주석 - 정상을 향한 독주 2",
+                            "lyrics": "",
+                            "youtubeUrl": "https://youtu.be/1ZITc5a3isE"
+                        }
+                    ]
+                },
+                {
                     "id": "kia-34",
                     "name": "황대인",
                     "backNumber": "34",
@@ -4417,7 +4434,7 @@
                     "id": "kia-36",
                     "name": "이호연",
                     "backNumber": "36",
-                    "position": "",
+                    "position": "2루수",
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2018(롯데)",
@@ -4535,7 +4552,7 @@
                     "proDebut": "2025",
                     "joinedYear": "2025",
                     "naverPlayerId": "55636",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/262726f8-2ede-4157-b959-4180b1db862f.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/76a7b525-c569-4bae-82c1-d2d2b4407e28.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -4937,7 +4954,7 @@
                     "proDebut": "2020",
                     "joinedYear": "2020",
                     "naverPlayerId": "50556",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/138fb778-830c-4b62-9d94-5b75f11c2bb5.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/8e0646be-97ef-46c6-be00-f5ddaf02b1fb.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -5166,34 +5183,6 @@
                     ]
                 },
                 {
-                    "id": "lotte-14",
-                    "name": "최항",
-                    "backNumber": "14",
-                    "position": "2루수",
-                    "bats": "우투좌타",
-                    "group": "내야수",
-                    "proDebut": "2012(SK)",
-                    "joinedYear": "2024",
-                    "naverPlayerId": "62884",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/5db3135e-30bb-4652-a4b9-a30ab1081109.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "",
-                            "title": "",
-                            "lyrics": "롯데의 최항 오오오오오 오오오~\n최강롯데 자이언츠 최항 안타 ×4 \n\n카게야마 히로노부 - HEATS",
-                            "youtubeUrl": "https://youtu.be/mQkFSILOfR4"
-                        },
-                        {
-                            "kind": "entrance",
-                            "label": "",
-                            "title": "원필 - 행운을 빌어 줘",
-                            "lyrics": "",
-                            "youtubeUrl": "https://youtu.be/iHYTp1LuWYY"
-                        }
-                    ]
-                },
-                {
                     "id": "lotte-16",
                     "name": "김민성",
                     "backNumber": "16",
@@ -5365,7 +5354,7 @@
                     "id": "lotte-60",
                     "name": "박찬형",
                     "backNumber": "60",
-                    "position": "2루수",
+                    "position": "3루수",
                     "bats": "우투좌타",
                     "group": "내야수",
                     "proDebut": "2025",
@@ -5595,7 +5584,7 @@
                     "proDebut": "2022",
                     "joinedYear": "2022",
                     "naverPlayerId": "52591",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/d7caaa96-e9ac-423d-bb64-6693435bd0a8.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/0f4ca755-9e96-4e2b-b38f-6a865000fee1.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -5791,6 +5780,19 @@
                 }
             ],
             "players": [
+                {
+                    "id": "samsung-p56474",
+                    "name": "사토시",
+                    "backNumber": "74",
+                    "position": "투수",
+                    "bats": "우투우타",
+                    "group": "투수",
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56474",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/f83e3db3-1b28-473e-b34b-6073e57a05ff.png",
+                    "songs": []
+                },
                 {
                     "id": "samsung-2",
                     "name": "김재성",
@@ -6025,7 +6027,7 @@
                     "proDebut": "2022",
                     "joinedYear": "2022",
                     "naverPlayerId": "52415",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/7f746957-436e-4a65-aa55-71eefe6b7fb5.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/9af66aa3-d2b3-46e2-a62e-1412e83361fa.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -6159,7 +6161,7 @@
                     "id": "samsung-50",
                     "name": "이창용",
                     "backNumber": "50",
-                    "position": "3루수",
+                    "position": "1루수",
                     "bats": "우투우타",
                     "group": "내야수",
                     "proDebut": "2021",
@@ -6501,7 +6503,7 @@
                     "proDebut": "2020",
                     "joinedYear": "2020",
                     "naverPlayerId": "50458",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/535d6cbe-19bd-40d7-8d8d-af5c3b45e586.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/12f54c00-965f-45cb-9dca-0224a46688c5.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -6719,6 +6721,32 @@
             ],
             "players": [
                 {
+                    "id": "hanwha-p56799",
+                    "name": "짐머맨",
+                    "backNumber": "12",
+                    "position": "투수",
+                    "bats": "좌투좌타",
+                    "group": "투수",
+                    "proDebut": "",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "56799",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/bb794327-adfd-4838-a5a1-7973a647ef1a.png",
+                    "songs": []
+                },
+                {
+                    "id": "kia-28",
+                    "name": "이형범",
+                    "backNumber": "16",
+                    "position": "투수",
+                    "bats": "우투우타",
+                    "group": "투수",
+                    "proDebut": "2012(NC)",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "62951",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/19d091c0-d5dc-49a0-ac16-ffa83305e8c0.png",
+                    "songs": []
+                },
+                {
                     "id": "hanwha-99",
                     "name": "류현진",
                     "backNumber": "99",
@@ -6917,7 +6945,7 @@
                     "proDebut": "2019",
                     "joinedYear": "2019",
                     "naverPlayerId": "69737",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/b70ba0f1-155a-4a15-b2f5-ed915e03d594.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/db988d32-b6ed-4a5f-88c7-bfc97e9b4d20.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -6932,34 +6960,6 @@
                             "title": "터보트로닉 - say yes",
                             "lyrics": "",
                             "youtubeUrl": "https://youtu.be/4QX129XfGOU"
-                        }
-                    ]
-                },
-                {
-                    "id": "hanwha-16",
-                    "name": "하주석",
-                    "backNumber": "16",
-                    "position": "2루수",
-                    "bats": "우투좌타",
-                    "group": "내야수",
-                    "proDebut": "2012",
-                    "joinedYear": "2012",
-                    "naverPlayerId": "62700",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/4cb37977-c944-49ba-80bd-a90148cb170a.png",
-                    "songs": [
-                        {
-                            "kind": "cheer",
-                            "label": "응원가",
-                            "title": "구단 자작곡",
-                            "lyrics": "하주석 유후! 하주석 승리를 위해~ 함께 외쳐라!\n하주석 유후! 하주석 승리를 위해~ 함께 외쳐라 워어\n하!주!석!",
-                            "youtubeUrl": "https://youtu.be/rNvGPCTgT2o?si=GGL6WhSF3z-axBue"
-                        },
-                        {
-                            "kind": "entrance",
-                            "label": "등장곡",
-                            "title": "주석 - 정상을 향한 독주 2",
-                            "lyrics": "",
-                            "youtubeUrl": "https://youtu.be/1ZITc5a3isE"
                         }
                     ]
                 },
@@ -7135,7 +7135,7 @@
                     "id": "hanwha-25",
                     "name": "김태연",
                     "backNumber": "25",
-                    "position": "",
+                    "position": "우익수",
                     "bats": "우투우타",
                     "group": "외야수",
                     "proDebut": "2016",
@@ -7253,7 +7253,7 @@
                     "proDebut": "2023",
                     "joinedYear": "2023",
                     "naverPlayerId": "53764",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/378708e5-3baa-4194-8e86-3c4bb2032cb6.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/7772e95e-8b4a-4356-a710-cebb9de71e0d.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -7501,7 +7501,7 @@
                     "proDebut": "2023",
                     "joinedYear": "2023",
                     "naverPlayerId": "53312",
-                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/4fa80ad2-8ff0-4c97-b4a2-f9e960b26571.png",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/07189b06-90e5-4f60-b090-3d780efeb79e.png",
                     "songs": [
                         {
                             "kind": "cheer",
@@ -7691,6 +7691,27 @@
                             "title": "Stephen Foster - Swanee River",
                             "lyrics": "히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)\n\n히~어로 서건창~ 서건창! 워어어어~ (안타!)\n히~어로 서건창~ 서건창! 승리를 위하여~ (안타!)",
                             "youtubeUrl": "https://youtu.be/F7DEEdY6TKA"
+                        }
+                    ]
+                },
+                {
+                    "id": "nc-24",
+                    "name": "데이비슨",
+                    "backNumber": "34",
+                    "position": "1루수",
+                    "bats": "우투우타",
+                    "group": "내야수",
+                    "proDebut": "2009(ARI)",
+                    "joinedYear": "2026",
+                    "naverPlayerId": "54944",
+                    "photoUrl": "https://ssl.pstatic.net/sstatic/people/profileImg/t/b302802e-cb99-4d27-b046-a60a7e37bcc7.png",
+                    "songs": [
+                        {
+                            "kind": "cheer",
+                            "label": "타격 시",
+                            "title": "신비 - 통다리 토로롱",
+                            "lyrics": "데이비슨 오오 데이비슨 오오오오 데이비슨 오오 키!움! 히어로즈 데! 이! 비! 슨!\n\n원곡 : 신비 - 통다리 토로롱",
+                            "youtubeUrl": "https://www.youtube.com/watch?v=wi9IpH-E6PQ"
                         }
                     ]
                 },
